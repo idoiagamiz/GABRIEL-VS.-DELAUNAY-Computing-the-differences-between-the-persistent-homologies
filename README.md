@@ -5,7 +5,7 @@ In this project we will explain the existence of two sub-complexes of the Delaun
 
 The alpha complex is the most widely used method to compute persistent homology for large low-dimensional data sets. It is more common than the Gabriel simplices and it has been studied for more time. In fact, it has been used a lot because it works.  
 
-Gabriel complex has some problems, but we want to discover in which way can give us information that we can use, even if it does not totally work. For this reason, in this project we are specially interested in this type of complex, a field to investigate that could give us great benefits. 
+Gabriel complex has some problems, but we want to discover in which way can give us information that we can use, even if it does not totally work. That is why we are specially interested in this type of complex, a field to investigate that could give us great benefits. 
 On the one hand, an isomorphism between the 0-persistent homology of both complexes will be proved on the plane. On the other hand, we will see that in three dimensions how even despite of not getting the same 1-persistent homology  there exist some information for this homologies.
 
 Suppose that S is a set of points in the plane and Del(S) the corresponding Delaunay triangulation. Let K be the simplicial complex consisting on those points and the edges and triangles of Del(S).
