@@ -1,5 +1,4 @@
 # GABRIEL VS. DELAUNAY: Computing the differences between the persistent homologies
-Bachelor project in mathematics
 Persistent homology is a very useful tool in Topological  Data Analysis. In the last years, the Delaunay triangulation has been used to get the persistence diagram, but what if we could find a more efficient manner of getting the same persistent homology?
 
 In this project we will explain the existence of two sub-complexes of the Delaunay triangulation that can help us to answer this problem: the alpha complexes and the Gabriel complexes.
